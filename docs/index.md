@@ -2,6 +2,7 @@
 
 ```jsx
 import React from "react";
+import { Button } from "antd";
 
-export default () => <h1 style={{ color: "#555" }}>Hello World!</h1>;
+export default () => <Button type="primary">我是 antd 的按钮dddd</Button>;
 ```
