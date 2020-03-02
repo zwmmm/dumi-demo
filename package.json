@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "dumi dev",
+    "start": "dumi dev"
+  },
+  "dependencies": {
+    "dumi": "^1.0.0-beta.15"
+  }
+}
